@@ -1,10 +1,14 @@
 # Statics - Valorant Companion App for Android
 
-![Giffy](https://github.com/faheem-s27/Statics/assets/63436748/2cce55eb-100e-472a-bfea-8531bb1411e9)
-![Giffy2](https://github.com/faheem-s27/Statics/assets/63436748/5654dfdc-99c7-47b3-ac57-62d8d4ba1e32)
-
 ## Overview
 **Statics** is a feature-rich Valorant companion app for Android, offering a seamless experience to track and share Valorant stats conveniently on mobile devices. With over 10,000 downloads from the Google Play Store, Statics stands out as a reliable tool for Valorant enthusiasts.
+
+
+![Giffy](https://github.com/faheem-s27/Statics-Public/assets/63436748/b7f6c5a3-76e9-4b47-b52f-8f70a7b4f6a6)
+![Giffy2](https://github.com/faheem-s27/Statics-Public/assets/63436748/cb34440f-e4a7-4368-95e5-a605d0b47a2e)
+
+
+
 
 ### Table of Contents
 - [Features](#features-of-statics)
@@ -26,23 +30,15 @@
 - **Authentic Valorant Styling**: Consistent with the aesthetic of the game.
 - **Dark Mode Support**: Choose between dark and light themes for optimal viewing.
 
-### Screenshots
-![image](https://github.com/faheem-s27/Statics/assets/63436748/cdf1e1cf-cb5c-4c61-98d0-e75e3885bd2e)
-![image](https://github.com/faheem-s27/Statics/assets/63436748/1ac390f8-b09c-4abd-9ec9-c8b8fc91de17)
+### Images
+![just_statics alot smaller](https://github.com/faheem-s27/Statics-Public/assets/63436748/73f8a90f-8d5f-4a1c-bb5a-0711eb11520e)
 
 
+<img src="https://github.com/faheem-s27/Statics-Public/assets/63436748/83c2b558-fdfb-4b75-b3a6-0ff4e674cb02" alt="MainApp" width="300">
+<img src="https://github.com/faheem-s27/Statics-Public/assets/63436748/db011f04-33e4-430d-aa82-b87e0fc4f9b6" alt="MainApp" width="300">
 
-<img src="https://github.com/faheem-s27/Statics/assets/63436748/c953a1b3-f4ad-407a-86d7-e717f4585bcf" alt="Minimap" width="300">
-<img src="https://github.com/faheem-s27/Statics/assets/63436748/d7f00e10-d803-4971-91f2-5629e5874ce4" alt="Website + Main App" width="300">
-<img src="https://github.com/faheem-s27/Statics/assets/63436748/9497486c-9404-4f8d-8943-22184a1ebbb4" alt="All Screenshots" width="300">
-<img src="https://github.com/faheem-s27/Statics/assets/63436748/93f52d69-13c8-4390-8b80-659fcf9a2c6a" alt="New Agent" width="300">
-<img src="https://github.com/faheem-s27/Statics/assets/63436748/0095fd25-f0fa-4c63-bff0-804bc2a1b6e8" alt="Image" width="300">
-<img src="https://github.com/faheem-s27/Statics/assets/63436748/afa4b630-b949-4a5f-8444-de114d5cc3e7" alt="Image" width="300">
-<img src="https://github.com/faheem-s27/Statics/assets/63436748/6ed1203b-8d88-43fe-a575-ff2ba298c886" alt="Image" width="300">
-<img src="https://github.com/faheem-s27/Statics/assets/63436748/31fe068c-dd78-42a5-b21f-58b80d9b2ba6" alt="Image" width="300">
-<img src="https://github.com/faheem-s27/Statics/assets/63436748/67213b48-8b7a-4d5f-a75d-7a399b9096c3" alt="Image" width="300">
-<img src="https://github.com/faheem-s27/Statics/assets/63436748/e522951c-86c1-4708-a56c-ac755c907fea" alt="Last Match Widget" width="300">
-<img src="fulllogo.png" alt="Screenshot" width="300">
+<img src="https://github.com/faheem-s27/Statics-Public/assets/63436748/12cacae0-950b-4bbd-89e9-df656fdf54df" alt="MainApp" width="600">
+<img src="https://github.com/faheem-s27/Statics-Public/assets/63436748/fd0dfbc3-640c-47e6-bbe6-de401b008e91" alt="Screenshot1" width="600">
 
 ### Links
 - [Website](https://statics-fd699.web.app/)
