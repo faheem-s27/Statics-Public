@@ -46,6 +46,7 @@
 
 ### Links
 - [Website](https://statics-fd699.web.app/)
+- Removed from Google Play Store :(
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.jawaadianinc.valorant_stats)
 
 ### Description
