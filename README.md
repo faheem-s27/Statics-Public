@@ -1,5 +1,7 @@
 # Statics - Valorant Companion App for Android
 
+Discord Link: https://discord.gg/GF53dHfwaV
+
 ## Overview
 **Statics** is a feature-rich Valorant companion app for Android, offering a seamless experience to track and share Valorant stats conveniently on mobile devices. With over 10,000 downloads from the Google Play Store, Statics stands out as a reliable tool for Valorant enthusiasts.
 
