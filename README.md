@@ -1,6 +1,6 @@
 # Statics - Valorant Companion App for Android
 
-Discord Link: https://discord.gg/GF53dHfwaV
+Discord Server to suggest new features or report bugs: https://discord.gg/GF53dHfwaV
 
 ### Table of Contents
 - [Features](#features-of-statics)
