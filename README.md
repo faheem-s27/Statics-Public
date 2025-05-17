@@ -10,7 +10,7 @@ Discord Server to suggest new features or report bugs: https://discord.gg/GF53dH
 - [Legal](#legal)
 
 ## Overview
-**Statics** is a feature-rich Valorant companion app for Android, offering a seamless experience to track and share Valorant stats conveniently on mobile devices. With over 10,000 downloads from the Google Play Store, Statics stands out as a reliable tool for Valorant enthusiasts.
+**Statics** is a feature-rich Valorant companion app for Android, offering a seamless experience to track and share Valorant stats conveniently on mobile devices. With over 50,000 downloads, Statics stands out as a reliable tool for Valorant enthusiasts.
 
 ![Giffy](https://github.com/faheem-s27/Statics-Public/assets/63436748/b7f6c5a3-76e9-4b47-b52f-8f70a7b4f6a6) ![Giffy2](https://github.com/faheem-s27/Statics-Public/assets/63436748/cb34440f-e4a7-4368-95e5-a605d0b47a2e)
 
